@@ -1,4 +1,4 @@
-FROM phusion/golang:1.4.2-wheezy
+FROM golang:1.4.2-wheezy
 MAINTAINER Sho Yoshida
 
 # Build lbManager
